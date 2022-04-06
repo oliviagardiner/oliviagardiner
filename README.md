@@ -1,4 +1,9 @@
-### Hi there 👋
+My name is Olivia and I'm a software engineer. Coming from a static media design background, I switched to web development in 2016. As a designer, I have a soft spot for frontend but I mostly work with the full stack. Your databases don't scare me.
+
+I've spent most of my time on php projects. Don't feel too bad for me, php7 and php8 are pretty cool. I like to tinker with python in my free time.
+
+I'm also less serious than what I initially look like :)
+
 
 <!--
 **oliviagardiner/oliviagardiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
