@@ -1,4 +1,4 @@
-My name is Olivia and I'm a software engineer coming from a static media design background. I switched to web development in 2016 and I've spent most of my time working with PHP 5 to 7 ever since, with a short side quest involving a Ruby on Rails stack. I define myself as a backend developer but I mostly work with the full stack. I like to tinker with python and VueJS in my free time.
+My name is Olivia and I'm a software engineer coming from a static media design background. I switched to web development in 2016 and I've spent most of my time working with PHP ever since, with a short side quest involving a Ruby on Rails stack. I define myself as a backend developer but I mostly work with the full stack. I like to tinker with python and VueJS in my free time.
 
 I'm also less serious than what I initially look like :)
 
